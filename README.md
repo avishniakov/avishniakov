@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Andrei Vishniakov!
-- 👀 I’m interested in various ascpects of Machine Learning lifecycle, Python development and Data Analytics.
-- 🌱 I’m currently learning Reinforncement Learning and digging deeper into Natural Language Processing.
+- 👀 I’m interested in various ascpects of MLOps, Python development and ML Modeling.
 - 📫 You can reach me with:
   
   - LinkedIn: https://www.linkedin.com/in/andrei-vishniakov/
